@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **flutter, design pattern, refactoring**
 
-- 👯 I’m looking to collaborate on [Madison technology company](https://madison-technologies.com/)
+- 👯 I’m looking to collaborate with the software company 
 
 - 💬 Ask me about **react, vue, webpack, nextjs, nuxtjs**
 
